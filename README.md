@@ -1,5 +1,5 @@
 # STLContainers
-This repository contains my implementation of some of the most used C++ Standard Template Library 
+This repository contains my implementation for some of the most commonly used C++ Standard Template Library 
 containers using custom iterators.
 
 # Reference
