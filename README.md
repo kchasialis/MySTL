@@ -948,12 +948,3 @@ See LICENSE.md for more information.
  believe the code can be improved or if you spot a bug.
  I will highly appreciate it.  
  
- Mails :
- * koschasialis@gmail.com
- * sdi1600195@di.uoa.gr
- 
-# Improvements
- * Use policy-based design for hash tables and red black trees (possibly for vector-like ordered containers).
- * Implement some extra functionality like more constructors, try_emplace() etc.
- * I believe that a sorted array will be a more efficient implementation (due to 
- cache hit-rate being higher) than rbtrees for sorted containers, maybe try this approach. 
